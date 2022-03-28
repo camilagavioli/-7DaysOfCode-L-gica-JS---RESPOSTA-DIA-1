@@ -14,3 +14,6 @@ if (gosta == 1){
 if (gosta == 2){
     alert("Ahh que pena... Já tentou aprender outras linguagens?");
 }
+
+
+
